@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Alex-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" />
   <img align="center" alt="Alex-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Alex-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Alex-matrix" height="150" style="border-radius:50px;" src="https://github.com/cnx-alexduarte/cnx-alexduarte/blob/main/images/matrix_neo.gif?width=676&height=676">
+  <img align="right" alt="Alex-matrix" height="150" style="border-radius:50px;" src="https://raw.githubusercontent.com/AlexDuarte13/AlexDuarte13/main/images/matrix_neo.gif?width=676&height=676">
 </div>
   
   ##
