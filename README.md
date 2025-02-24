@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 ## 👋 Bem-Vindo!!! 
-### ⚡ Eu sou Alex Duarte, Techlead na Conexa Saude e Criador de Conteudo de Programacao!
+### ⚡ Eu sou Alex Duarte, Techlead na Conexa Saude e Criador de Mentor de Devs!
 
 <br />
 <div align="left">
